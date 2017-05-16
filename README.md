@@ -3,7 +3,7 @@
 
 ### Sitio web
 
-**El puntaje total por trabajo en el sitio web de visualizaciones es de 48 puntos. Los puntos se obtienen por 3 asepectos.**
+**El puntaje total a obtener en el siito web es de 48 puntos, considerando 3 aspectos:**
 
 **1. Cumple con las indicaciones en cada página (36 pts.)**
 
@@ -29,9 +29,7 @@
 
 ### Presentación: 
 
-**El puntaje total por trabajo de presentación es de 12 puntos.**
-
-La presentación se hace un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
+**El puntaje total a obtener en la presentación es de 12 puntos.** La presentación se hace un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
 
 - presentar el/los nombre(s) con los que es conocido el gráfico (1 pto.) ;
 
