@@ -1,7 +1,7 @@
 # Visualizaciones
 #### 22 de abril, 2017
 
-En este clase se realiza una segunda evaluación parcial, correspondiente al 10% del promedio de su asignatura. La evaluación considera dos actividades. La primera actividad debe desarrollarse en el lapso de 45 minutos. Para la segunda actividad debe desarrollarse en 7 minutos (eso si consideramos únicamente el tiempo de presentación de cada dupla).
+En este clase se realiza una segunda evaluación parcial, correspondiente al 10% del promedio de su asignatura. La evaluación considera dos actividades. La primera actividad debe desarrollarse en el lapso de 45 minutos. La segunda actividad debe desarrollarse en 7 minutos (eso si consideramos únicamente el tiempo de presentación de cada dupla).
 
 ## Sitio web
 
@@ -53,6 +53,14 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 **Puntaje total por trabajo en sitio web: 12 pts.**
 
+------
 
+Todo lo que necesitan presentar lo encuentran en:
+
+[La tabla periódica de los métodos de visualización](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+
+[Edward Tufte forum: Chartjunk](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z)
+
+[Learning · RAWGraphs](http://rawgraphs.io/learning/)
 
 
