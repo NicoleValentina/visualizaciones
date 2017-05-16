@@ -51,7 +51,6 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 - presentar conclusiones generales mientras se muestra cómo preparar este tipo gráfico con [RAWGraphs](http://app.rawgraphs.io/) (2 pts.)
 
-**Puntaje total por trabajo en sitio web: 12 pts.**
 
 ------
 
