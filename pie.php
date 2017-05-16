@@ -4,7 +4,7 @@
 </div><!--/col-sm-10 col-sm-offset-1-->
 </div><!--/row-->
 </div><!--/container-->
-<script src="bootstrap/js/jquery.min.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="libs/js/jquery.min.js"></script>
+<script src="libs/js/bootstrap.min.js"></script>
 </body>
 </html>
