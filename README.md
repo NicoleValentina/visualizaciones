@@ -1,5 +1,5 @@
 # Visualizaciones
-#### 22 de abril, 2017
+#### Lunes 22 de mayo, 2017
 
 En este clase se realiza una segunda evaluación parcial, correspondiente al 10% del promedio de su asignatura. La evaluación considera dos actividades. La primera actividad debe desarrollarse en el lapso de 45 minutos. La segunda actividad debe desarrollarse en 7 minutos (eso si consideramos únicamente el tiempo de presentación de cada dupla).
 
