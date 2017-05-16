@@ -1,7 +1,9 @@
 # Visualizaciones
-22 de abril, 2017
+#### 22 de abril, 2017
 
-### Sitio web
+En este clase se realiza una segunda evaluación parcial, correspondiente al 10% del promedio de su asignatura. La evaluación considera dos actividades. La primera actividad debe desarrollarse en el lapso de 45 minutos. Para la segunda actividad debe desarrollarse en 7 minutos (eso si consideramos únicamente el tiempo de presentación de cada dupla).
+
+## Sitio web
 
 **El puntaje total a obtener en el siito web es de 48 puntos, considerando 3 aspectos:**
 
@@ -27,7 +29,7 @@
 
 - Aprovecha el config.json para hacer modificaciones en estilo base de bootstrap (hasta 3 pts. por una modificación que sea, a la vez, minimalista, evidente y pertinente al tema).
 
-### Presentación: 
+## Presentación: 
 
 **El puntaje total a obtener en la presentación es de 12 puntos.** La presentación se hace un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
 
@@ -43,11 +45,11 @@
 
 - indicar si acaso se trata de un gráfico que expresa y provoca al pensamiento divergente o al convergente, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, al gráfico en cuestión (1 pto.);
 
-- ejemplos de buenas prácticas, con un análisis que permita obtener, al menos, 3 lecciones sobre el uso más efectivo de este tipo de gráfico. Es importante considerar el "inkratio" (3 pts.);
+- ejemplos de buenas prácticas, con un análisis que permita obtener lecciones clave para la [graphical excellence](http://www.infovis-wiki.net/index.php?title=Graphical_Excellence). En los ejemplos es muy importante considerar el [data-ink ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio) (2 pts.);
 
-- slide de contraejemplos, con un análisis de casos ridículos de "chartjunk", que permitan tener claridad sobre lo que nunca se debería hacer con el tipo de gráfico en cuestión (2 pts.)
+- contraejemplos, con un análisis de casos ridículos de [chartjunk](http://www.infovis-wiki.net/index.php/Chart_Junk), que permitan tener claridad sobre lo que nunca se debería hacer con el tipo de gráfico en cuestión (2 pts.); y
 
-- conclusiones generales (1 pto.)
+- presentar conclusiones generales mientras se muestra cómo preparar este tipo gráfico con [RAWGraphs](http://app.rawgraphs.io/) (2 pts.)
 
 **Puntaje total por trabajo en sitio web: 12 pts.**
 
