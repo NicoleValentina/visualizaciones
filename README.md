@@ -56,10 +56,11 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 Todo lo que necesitan presentar lo encuentran en:
 
-[La tabla periódica de los métodos de visualización](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+[D3 Gallery](https://github.com/d3/d3/wiki/Gallery#visual-index)
 
 [Edward Tufte forum: Chartjunk](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z)
 
-[Learning · RAWGraphs](http://rawgraphs.io/learning/)
+[La tabla periódica de los métodos de visualización](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 
+[Learning · RAWGraphs](http://rawgraphs.io/learning/)
 
