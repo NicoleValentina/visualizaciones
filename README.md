@@ -31,19 +31,19 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 ## Presentación: 
 
-**El puntaje total a obtener en la presentación es de 12 puntos.** La presentación se hace un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
+**El puntaje total por presentación es de 12 puntos.** La presentación se hace en un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
 
 - presentar el/los nombre(s) con los que es conocido el gráfico (1 pto.) ;
 
 - presentar una descripción textual/formal del gráfico (1 pto.);
 
-- indicar si acaso se trata de un gráfico pertinente para visualización de datos o visualización de información, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, al gráfico en cuestión (1 pto.);
+- indicar si acaso se trata de un gráfico pertinente para visualización de datos o visualización de información, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, a un ejemplo de gráfico en cuestión (1 pto.);
 
-- indicar si acaso se trata de un gráfico pertinente para la visualización de proceso o visualización de estructuras, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, al gráfico en cuestión (1 pto.);
+- indicar si acaso se trata de un gráfico pertinente para la visualización de proceso o visualización de estructuras, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, a un ejemplo de gráfico en cuestión (1 pto.);
 
-- indicar si acaso se trata de un gráfico que entrega una vista general de un asunto, vista del detalle de sus partes o permite ambas vista al mismo tiempo, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, al gráfico en cuestión (1 pto.);
+- indicar si acaso se trata de un gráfico que entrega una vista general de un asunto, vista del detalle de sus partes o permite ambas vista al mismo tiempo, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, a un ejemplo de gráfico en cuestión (1 pto.);
 
-- indicar si acaso se trata de un gráfico que expresa y provoca al pensamiento divergente o al convergente, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, al gráfico en cuestión (1 pto.);
+- indicar si acaso se trata de un gráfico que expresa y provoca al pensamiento divergente o al convergente, mostrando ejemplos de gráficos del mismo tipo, que rodeen, como satélites, a un ejemplo de gráfico en cuestión (1 pto.);
 
 - ejemplos de buenas prácticas, con un análisis que permita obtener lecciones clave para la [graphical excellence](http://www.infovis-wiki.net/index.php?title=Graphical_Excellence). En los ejemplos es muy importante considerar el [data-ink ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio) (2 pts.);
 
