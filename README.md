@@ -71,7 +71,7 @@ Y en los vínculos que aparece más arriba, entre las descripciones.
 
 **DUPLAS**
 
-Nicole Cea + Rocío Medrano =>  Sankey Diagram
+Nicole Cea + Rocío Medrano =>  Sankey Diagram ≈ Alluvial Diagram ≈ Parallel Sets ≈ Flow Map
 
 Margarita Albornoz + Gonzalo Armijo => Treemap
 
