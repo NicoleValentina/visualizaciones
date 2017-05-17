@@ -47,9 +47,9 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 - ejemplos de buenas prácticas, con un análisis que permita obtener lecciones clave para la [graphical excellence](http://www.infovis-wiki.net/index.php?title=Graphical_Excellence). En los ejemplos es muy importante ser cuidadosos con el [data-ink ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio) (2 pts.);
 
-- contraejemplos, con un análisis de casos que vayan desde el [chartjunk](http://www.infovis-wiki.net/index.php/Chart_Junk) hasta el [WTF](http://viz.wtf/). Los contraejemplos deben dejar muy en claro lo que nunca se debería hacer con el tipo de gráfico en cuestión (2 pts.); y
+- contraejemplos, con un análisis de casos que vayan desde el [chartjunk](http://www.infovis-wiki.net/index.php/Chart_Junk) hasta el [WTF](http://viz.wtf/). Los contraejemplos deben dejar muy en claro lo que nunca se debería hacer con el tipo de visualización en cuestión (2 pts.); y
 
-- presentar conclusiones generales mientras se muestra cómo preparar este tipo gráfico con [RAWGraphs](http://app.rawgraphs.io/) (2 pts.)
+- presentar conclusiones generales mientras se preparara este tipo de visualización con [RAWGraphs](http://app.rawgraphs.io/) (2 pts.)
 
 
 ------
