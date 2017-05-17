@@ -65,3 +65,15 @@ Todo lo que necesitan presentar lo encuentran en:
 [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
 
 Y en los vínculos que aparece más arriba, entre las descripciones.
+
+
+-------
+
+**DUPLAS**
+
+Nicole Cea + Rocío Medrano =>  Sankey Diagram
+
+Margarita Albornoz + Gonzalo Armijo => Treemap
+
+Francisca Paillas + Genisis Rosales => Cluster Dendrogram ≈ Tree Diagram ≈ Hyperbolic Tree
+
