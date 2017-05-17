@@ -63,3 +63,5 @@ Todo lo que necesitan presentar lo encuentran en:
 [Learning · RAWGraphs](http://rawgraphs.io/learning/)
 
 [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
+
+Y los vínculos que aparece más arriba, entre las descripciones.
