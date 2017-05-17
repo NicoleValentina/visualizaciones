@@ -43,7 +43,7 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 - indicar si acaso se trata de una visualización que entrega una vista general de un asunto, vista del detalle de sus partes o permite ambas vista al mismo tiempo, mostrando ejemplos de visualizaciones del mismo tipo, que rodeen, como satélites, a un ejemplo del tipo de visualización en cuestión (1 pto.);
 
-- indicar [la función principal de este tipo de visualización](http://www.datavizcatalogue.com/search.html), mostrando ejemplos de otras visualizaciones que pueden cumplir la misma función, ejemplos que rodeen, como satélites, a un ejemplo de la visualización en cuestión;
+- indicar [la función principal de este tipo de visualización](http://www.datavizcatalogue.com/search.html), mostrando ejemplos de otras visualizaciones que pueden cumplir la misma función, ejemplos que rodeen, como satélites, a un ejemplo de la visualización en cuestión (1 pto.);
 
 - ejemplos de buenas prácticas, con un análisis que permita obtener lecciones clave para la [graphical excellence](http://www.infovis-wiki.net/index.php?title=Graphical_Excellence). En los ejemplos es muy importante ser cuidadosos con el [data-ink ratio](http://www.infovis-wiki.net/index.php/Data-Ink_Ratio) (2 pts.);
 
