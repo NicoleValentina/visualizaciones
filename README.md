@@ -5,7 +5,7 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 ## Sitio web
 
-**El total por sitio web es de 48 puntos, considerando 3 aspectos:**
+**El total por [sitio web](http://profesor.faco.cl/visualizaciones/) es de 48 puntos, considerando 3 aspectos:**
 
 **1. Cumple con las indicaciones en cada página (36 pts.)**
 
