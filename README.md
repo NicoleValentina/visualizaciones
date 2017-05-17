@@ -5,7 +5,7 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 ## Sitio web
 
-**El puntaje total por sitio web es de 48 puntos, considerando 3 aspectos:**
+**El total por sitio web es de 48 puntos, considerando 3 aspectos:**
 
 **1. Cumple con las indicaciones en cada página (36 pts.)**
 
@@ -31,7 +31,7 @@ En este clase se realiza una segunda evaluación parcial, correspondiente al 10%
 
 ## Presentación: 
 
-**El puntaje total por presentación es de 12 puntos.** La presentación se hace en un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
+**El total por presentación es de 12 puntos.** La presentación se hace en un formato que “tomamos prestado” de PechaKucha 20x20: Cada dupla debe utilizar 20 slides, y dedicar 20 segundos a la exposición de cada slide, para:
 
 - presentar el/los nombre(s) con los que es conocido este tipo de visualización (1 pto.) ;
 
