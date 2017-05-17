@@ -64,4 +64,4 @@ Todo lo que necesitan presentar lo encuentran en:
 
 [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
 
-Y los vínculos que aparece más arriba, entre las descripciones.
+Y en los vínculos que aparece más arriba, entre las descripciones.
