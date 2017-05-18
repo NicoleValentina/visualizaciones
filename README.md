@@ -71,23 +71,23 @@ Y en los vínculos que aparece más arriba, entre las descripciones.
 
 ### DUPLAS & SOLISTA
 
-Nicole Cea + Rocío Medrano =>  Sankey Diagram
+- Nicole Cea + Rocío Medrano =>  Sankey Diagram
 
-Margarita Albornoz + Gonzalo Armijo => Treemap
+- Margarita Albornoz + Gonzalo Armijo => Treemap
 
-Francisca Paillas + Genisis Rosales => Cluster Dendrogram ≈ Tree Diagram
+- Francisca Paillas + Genisis Rosales => Cluster Dendrogram ≈ Tree Diagram
 
-Elizabeth Ruiz + Elizabeth Silva => Pie Chart
+- Elizabeth Ruiz + Elizabeth Silva => Pie Chart
 
-Sebastián Reinoso + Carolina Valdebenito => Scatter Plot
+- Sebastián Reinoso + Carolina Valdebenito => Scatter Plot
 
-Cristián Peña + Esteban Parra => Circular Dendrogram ≈ hyperbolic tree
+- Cristián Peña + Esteban Parra => Circular Dendrogram ≈ hyperbolic tree
 
-Jonathan Zumaran L. => Bar chart
+- Jonathan Zumaran L. => Bar chart
 
 **Quedan pendientes** 
 
-Constanza Ulloa 
-Daniela Saldaña
-Francisco Lagos
+- Constanza Ulloa
+- Daniela Saldaña
+- Francisco Lagos
 
