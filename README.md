@@ -71,9 +71,15 @@ Y en los vínculos que aparece más arriba, entre las descripciones.
 
 ### DUPLAS
 
-Nicole Cea + Rocío Medrano =>  Sankey Diagram ≈ Alluvial Diagram ≈ Parallel Sets ≈ Flow Map
+Nicole Cea + Rocío Medrano =>  Sankey Diagram
 
 Margarita Albornoz + Gonzalo Armijo => Treemap
 
-Francisca Paillas + Genisis Rosales => Cluster Dendrogram ≈ Tree Diagram ≈ Hyperbolic Tree
+Francisca Paillas + Genisis Rosales => Cluster Dendrogram ≈ Tree Diagram
+
+Elizabeth Ruiz + Elizabeth Silva => Pie Chart
+
+Sebastián Reinoso + Carolina Valdebenito => Scatter Plot
+
+Cristián Peña G. + Esteban Parra A. => Circular Dendrogram ≈ hyperbolic tree
 
