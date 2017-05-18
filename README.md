@@ -69,7 +69,7 @@ Y en los vínculos que aparece más arriba, entre las descripciones.
 
 -------
 
-### DUPLAS
+### DUPLAS & SOLISTA
 
 Nicole Cea + Rocío Medrano =>  Sankey Diagram
 
@@ -81,5 +81,13 @@ Elizabeth Ruiz + Elizabeth Silva => Pie Chart
 
 Sebastián Reinoso + Carolina Valdebenito => Scatter Plot
 
-Cristián Peña G. + Esteban Parra A. => Circular Dendrogram ≈ hyperbolic tree
+Cristián Peña + Esteban Parra => Circular Dendrogram ≈ hyperbolic tree
+
+Jonathan Zumaran L. => Bar chart
+
+**Quedan pendientes** 
+
+Constanza Ulloa 
+Daniela Saldaña
+Francisco Lagos
 
